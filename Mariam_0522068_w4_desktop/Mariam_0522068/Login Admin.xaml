@@ -1,0 +1,22 @@
+﻿<Page x:Class="Mariam_0522068.Login_Admin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mariam_0522068"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Login_Admin">
+
+    <Grid Background="White">
+        <Label Content="User Name:" HorizontalAlignment="Left" Margin="3,183,0,0" VerticalAlignment="Top" Height="52" Width="190" Style="{StaticResource label style}"/>
+        <Label Content="Password:" Style="{StaticResource label style}" HorizontalAlignment="Left" VerticalAlignment="Top" Height="42" Width="154" Margin="14,254,0,0"/>
+        <Label Content="Login page" Style="{StaticResource label style}" HorizontalAlignment="Left" Margin="338,23,0,0" VerticalAlignment="Top" Height="47" Width="176"/>
+        <TextBox x:Name="namee" HorizontalAlignment="Left" Margin="268,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249" Height="26" TextChanged="namee_TextChanged"/>
+        <TextBox x:Name="pass" HorizontalAlignment="Left" Margin="268,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249" Height="26"/>
+        <Label Content="ID:" Style="{StaticResource label style}" HorizontalAlignment="Left" VerticalAlignment="Top" Height="42" Width="52" Margin="14,118,0,0"/>
+        <TextBox x:Name="ID" HorizontalAlignment="Left" Margin="268,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249" Height="26"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="567,359,0,0" VerticalAlignment="Top" Height="38" Width="134" Click="Button_Click"/>
+
+    </Grid>
+</Page>

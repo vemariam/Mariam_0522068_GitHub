@@ -1,0 +1,31 @@
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\Mariam_0522068.exe.config
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\Mariam_0522068.exe
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\Mariam_0522068.pdb
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Forget.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Login.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Profile.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Sign up.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068_Content.g.cs
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068_MarkupCompile.cache
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068_MarkupCompile.lref
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\App.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Forget.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Login.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Profile.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Sign up.baml
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.g.resources
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.Properties.Resources.resources
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.csproj.CopyComplete
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.exe
+C:\Users\IT\Desktop\Mariam_0522068\Mariam_0522068\obj\Debug\Mariam_0522068.pdb
